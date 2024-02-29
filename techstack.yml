@@ -1,7 +1,8 @@
 repo_name: mallowigi/material-theme-docs
-report_id: fe3d7b5c2568c88f2db94f88fe2b6d73
+report_id: 1328d5f14844a04a16dc93726fc9749d
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T13:14:38+00:00'
+timestamp: '2024-02-29T18:50:53+00:00'
 requested_by: mallowigi
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/mallowigi/material-theme-docs
   detection_source: Repo Metadata
 - name: Ruby
   description: A dynamic, interpreted, open source programming language with a focus
@@ -41,6 +43,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/mallowigi/material-theme-docs/blob/master/package.json
   detection_source: package.json
   last_updated_by: helio
   last_updated_on: 2020-04-09 11:59:59.000000000 Z
@@ -52,6 +55,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/mallowigi/material-theme-docs/blob/master/package.json
   detection_source: package.json
   last_updated_by: renovate[bot]
   last_updated_on: 2023-11-19 08:03:01.000000000 Z
@@ -64,6 +68,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/mallowigi/material-theme-docs/blob/master/package.json
   detection_source: package.json
   last_updated_by: helio
   last_updated_on: 2020-04-09 11:59:59.000000000 Z
@@ -75,6 +80,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/mallowigi/material-theme-docs/blob/master/robots.txt
   detection_source: robots.txt
   last_updated_by: Elior
   last_updated_on: 2021-12-07 12:19:40.000000000 Z
@@ -101,6 +107,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/mallowigi/material-theme-docs/blob/master/package.json
   detection_source: package.json
   last_updated_by: helio
   last_updated_on: 2020-04-09 11:59:59.000000000 Z
@@ -112,6 +119,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mallowigi/material-theme-docs
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -121,6 +129,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/mallowigi/material-theme-docs/blob/master/.github/workflows/main.yml
   detection_source: ".github/workflows/main.yml"
   last_updated_by: renovate[bot]
   last_updated_on: 2023-11-19 08:06:58.000000000 Z
@@ -145,6 +154,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/mallowigi/material-theme-docs/blob/master/package.json
   detection_source: package.json
   last_updated_by: helio
   last_updated_on: 2020-04-09 11:59:59.000000000 Z
@@ -156,6 +166,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/mallowigi/material-theme-docs/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: helio
   last_updated_on: 2020-04-09 11:59:59.000000000 Z
@@ -167,6 +178,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/mallowigi/material-theme-docs/blob/master/package.json
   detection_source: package.json
   last_updated_by: helio
   last_updated_on: 2020-04-09 11:59:59.000000000 Z
@@ -178,6 +190,7 @@ tools:
   category: Application Utilities
   sub_category: Search as a Service
   image_url: https://img.stackshare.io/service/589/default_452afb716f8f4b904f267638e5c6b9172f9fa06d.png
+  detection_source_url: https://github.com/mallowigi/material-theme-docs/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: Elior
   last_updated_on: 2023-08-05 17:32:36.000000000 Z
@@ -187,6 +200,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/mallowigi/material-theme-docs/blob/master/404.html
   detection_source: 404.html
   last_updated_by: helio
   last_updated_on: 2020-04-09 11:59:59.000000000 Z
@@ -212,6 +226,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/mallowigi/material-theme-docs/blob/master/robots.txt
   detection_source: robots.txt
   last_updated_by: Elior
   last_updated_on: 2021-12-07 12:19:40.000000000 Z
